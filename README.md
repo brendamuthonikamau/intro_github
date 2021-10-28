@@ -33,3 +33,34 @@ _test_
 ~~test~~
 
 ~test~
+
+1. Wilson
+2. kamau
+3. Mark
+4. fred
+
+
+i wilson
+ii kamau
+iv Mark
+ii fred
+
+1. Wilson
+
+    = drinks
+    
+    - beach
+2. hildah
+
+   - Read
+   
+    * sleep
+    * music 
+    
+    :smile:
+    
+    :heart:
+    
+    :cupid:
+    
+    :tada:
